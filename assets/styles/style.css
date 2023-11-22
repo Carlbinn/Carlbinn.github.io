@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p {
+    color: red;
+    font-size: 30px;
+    background-color: #43ff64d9;
+}
+.my_class {
+    color: green;
+    text-align: center;
+    background-color: rgba(87, 43, 0, 0.9);
+}
+#my_id {
+    color:pink;
+    height: 200px;
+    width: 200px;
+    padding: 100px;
+    border: 2px dashed green;
+}
+.dito {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+}
+.feel {
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
